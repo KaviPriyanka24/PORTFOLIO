@@ -66,7 +66,7 @@ portfolio/
 
 **Kavi Priyanka**  
 💼 Passionate Full-Stack Web Developer focused on clean code and user-friendly design.  
-📧 Reach me at: [kabipriyanka24@gmail.com](mailto:kabipriyanka24@gmail.com)  
+📧 Reach me at: [kabipriyanka24@gmail.com](mailto:kavipriyanka24@gmail.com)  
 🌐 [GitHub Profile](https://github.com/kavipriyanka24)
 
 ---
