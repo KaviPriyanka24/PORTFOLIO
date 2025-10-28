@@ -52,7 +52,7 @@ portfolio/
 
 ## 🌐 Live Demo
 
-🔗 [View Portfolio Website](kavipriyanka24.github.io/PORTFOILO/)
+🔗 [View Portfolio Website](kavipriyanka24.github.io/PORTFOLIO/)
 
 ---
 
